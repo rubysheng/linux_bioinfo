@@ -43,7 +43,7 @@ We used two programs - `water` and `needle`. There are several ways to run these
 
   check the manual first: `needle -h`
 
-![needle](/Users/ruby/Desktop/needle_h.png)
+![needle](needle_h.png)
 
 Here, qualifiers are the parameters in running this program.
 *Mandatory* qualifiers are the must. *optional* are not necessary.
@@ -78,10 +78,10 @@ $ water sequences.fasta:sequence3 cloning_vector.fasta -outfile seq3-cv.water.ou
 
 ***? What is the pattern of these command lines?***
 
-![cmd-pattern](/Users/ruby/Desktop/pattern.png)
+![cmd-pattern](pattern.png)
 
 ### 2 Flowchart
-![process](/Users/ruby/Desktop/process_dr.png)
+![process](process_dr.png)
 
 ### 3 Steps
 
